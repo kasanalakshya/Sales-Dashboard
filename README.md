@@ -52,13 +52,7 @@ Power BI – Dashboard design, interactive visuals, data modeling
 Microsoft Excel – Data cleaning and preparation\
 DAX Functions – Calculated measures and KPIs
 
-📁 Project Structure
-ElectroHub/
-│
-├── Data/                # Raw and cleaned datasets
-├── Dashboard/           # Power BI (.pbix) file
-├── Images/              # Screenshots of dashboards
-└── README.md            # Project documentation (this file)
+
 
 📈 Key Takeaway
 
